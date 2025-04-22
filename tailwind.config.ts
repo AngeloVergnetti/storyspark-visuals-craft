@@ -32,6 +32,13 @@ export default {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
 				},
+				storytelling: {
+					purple: '#7E69AB',
+					blue: '#0EA5E9',
+					teal: '#06B6D4',
+					gray: '#8E9196',
+					light: '#F1F0FB',
+				},
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',
 					foreground: 'hsl(var(--destructive-foreground))'
